@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-30T19:53:47 IST" name="Default suite" finished-at="2023-11-30T19:53:53 IST" duration-ms="5706">
+  <suite started-at="2023-12-01T19:54:13 IST" name="Default suite" finished-at="2023-12-01T19:54:37 IST" duration-ms="23275">
     <groups>
     </groups>
-    <test started-at="2023-11-30T19:53:47 IST" name="Default test" finished-at="2023-11-30T19:53:53 IST" duration-ms="5706">
-      <class name="org.wipro.automation.fb.testcases.SignupScenario">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.fb.testcases.SignupScenario@5824a83d]" started-at="2023-11-30T19:53:48 IST" name="launchBrowser" finished-at="2023-11-30T19:53:52 IST" duration-ms="4444" status="PASS">
+    <test started-at="2023-12-01T19:54:13 IST" name="Default test" finished-at="2023-12-01T19:54:37 IST" duration-ms="23275">
+      <class name="org.wipro.automation.fb.testcases.UO_MenuScenario">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.automation.fb.testcases.UO_MenuScenario@5824a83d]" started-at="2023-12-01T19:54:13 IST" name="launchBrowser" finished-at="2023-12-01T19:54:23 IST" duration-ms="9036" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="validatesignupfunc()[pri:0, instance:org.wipro.automation.fb.testcases.SignupScenario@5824a83d]" started-at="2023-11-30T19:53:52 IST" name="validatesignupfunc" finished-at="2023-11-30T19:53:53 IST" duration-ms="1149" status="PASS">
+        <test-method signature="validatemenufunc()[pri:0, instance:org.wipro.automation.fb.testcases.UO_MenuScenario@5824a83d]" started-at="2023-12-01T19:54:23 IST" name="validatemenufunc" finished-at="2023-12-01T19:54:37 IST" duration-ms="14139" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validatesignupfunc -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.fb.testcases.SignupScenario@5824a83d]" started-at="2023-11-30T19:53:53 IST" name="closeBrowser" finished-at="2023-11-30T19:53:53 IST" duration-ms="0" status="PASS">
+        </test-method> <!-- validatemenufunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.automation.fb.testcases.UO_MenuScenario@5824a83d]" started-at="2023-12-01T19:54:37 IST" name="closeBrowser" finished-at="2023-12-01T19:54:37 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- org.wipro.automation.fb.testcases.SignupScenario -->
+      </class> <!-- org.wipro.automation.fb.testcases.UO_MenuScenario -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
